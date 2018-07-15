@@ -1,0 +1,22 @@
+<% if (index){ %>
+<footer class="article-footer clearfix">
+
+
+<div class="index_author">作者：<a href="<%= config.url %>/about"  target="_blank" itemprop="author"><%= config.author %></a>
+</div>
+
+<div class="index_time">
+   <time datetime="<%= date_xml(item.date) %>" itemprop="datePublished"><%= __('datepublished') %><a href="<%= config.url %>/archives"  target="_blank"><%= item.date.format(config.date_format) %></a></time>
+</div>
+
+<div class="index_time">分类：<%- list_categories(item.categories, {
+      show_count: false,
+      class: 'article-category',
+      style: 'none',
+      separator: '►'
+  }) %></a>
+</div>
+
+<% } %>
+</footer>
+
