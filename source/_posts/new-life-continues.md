@@ -1,7 +1,6 @@
 title: 收拾东西，继续前行
 date: 2015-06-23 21:30:27
-categories: 其他分类
-
+categories: 上海散记
 
 ---
 
@@ -42,9 +41,9 @@ categories: 其他分类
 ![][6]
 
 
-  [1]: http://ww3.sinaimg.cn/mw690/aeba7ac3gw1ete87qxpt7j21si36o1ky.jpg
-  [2]: http://ww2.sinaimg.cn/mw690/aeba7ac3gw1ete87trckgj21si36oqv5.jpg
-  [3]: http://ww2.sinaimg.cn/mw690/aeba7ac3gw1ete8iy86aij21si36ob2a.jpg
-  [4]: http://ww3.sinaimg.cn/mw690/aeba7ac3gw1ete87w45ooj236o1siqv6.jpg
-  [5]: http://ww2.sinaimg.cn/mw690/aeba7ac3gw1ete888125uj236o1si4qq.jpg
-  [6]: http://ww1.sinaimg.cn/mw690/aeba7ac3gw1ete9n7o36sj236o1sikjm.jpg
+[1]: http://ww3.sinaimg.cn/mw690/aeba7ac3gw1ete87qxpt7j21si36o1ky.jpg
+[2]: http://ww2.sinaimg.cn/mw690/aeba7ac3gw1ete87trckgj21si36oqv5.jpg
+[3]: http://ww2.sinaimg.cn/mw690/aeba7ac3gw1ete8iy86aij21si36ob2a.jpg
+[4]: http://ww3.sinaimg.cn/mw690/aeba7ac3gw1ete87w45ooj236o1siqv6.jpg
+[5]: http://ww2.sinaimg.cn/mw690/aeba7ac3gw1ete888125uj236o1si4qq.jpg
+[6]: http://ww1.sinaimg.cn/mw690/aeba7ac3gw1ete9n7o36sj236o1sikjm.jpg

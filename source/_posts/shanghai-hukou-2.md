@@ -1,6 +1,6 @@
 title: 非上海生源应届生申请上海户口流程
 date: 2015-08-11 12:56:22
-categories: 其他分类
+categories: 上海散记
 
 ---
 
@@ -89,4 +89,4 @@ categories: 其他分类
 **以上，针对毕业前户口在学校集体户，且租房住的同学。**
 
 
-  [1]: http://drunkevil.com/2015/05/02/shanghai-hukou-1/
+[1]: http://drunkevil.com/2015/05/02/shanghai-hukou-1/

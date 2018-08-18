@@ -1,6 +1,6 @@
 title: 上海下雪了
 date: 2018-1-24 12:22:20
-categories: 其他分类
+categories: 上海散记
 
 ---
 
