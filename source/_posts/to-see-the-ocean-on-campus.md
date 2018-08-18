@@ -1,6 +1,6 @@
 title: 暴雨淹没了校园
 date: 2015-06-17 12:31:34
-categories: 其他分类
+categories: 上海散记
 
 ---
 
