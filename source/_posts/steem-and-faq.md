@@ -1,7 +1,8 @@
 title: steem的熟人社交，以及值得新老手都去读一读的FAQ
 date: 2018-01-09 21:15:35
-categories: 其他分类
----
+categories: 观点看法
+
+----------
 
 **1**
 

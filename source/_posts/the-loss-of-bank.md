@@ -1,6 +1,6 @@
 title: 慢慢消失的实体银行
 date: 2018-8-12 12:22:20
-categories: 其他分类
+categories: 上海散记
 
 ---
 
