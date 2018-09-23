@@ -8,3 +8,4 @@ public/
 /node_modules
 /.deploy_git
 /.vscode
+source/reading/index.resource/commit.json
