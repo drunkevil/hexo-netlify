@@ -43,7 +43,7 @@
             <% } %>
                 <li class="archive-post archive-day" data-date="<%= post.date.format('YYYYMMDD') %>">
                     <span class="archive-post-date"><%= post.date.format('YYYY-MM-DD').toLowerCase() %>：</span>
-                    <a class="archive-post-title" href="<%- url_for(post.path) %>"><%= post.title || '(no title)' %></a> 
+                    <a class="archive-post-title" href="<%- url_for(post.path) %>"><%= post.title || '(no title)' %> target="_blank"</a> 
                 </li>
         <% }) %>
     </section>
