@@ -940,7 +940,6 @@ article .article-content table {
   margin: 1em auto;
 }
 article .article-content table th {
-  text-align: center;
   font-weight: bold;
   border: 1px solid #ccc;
   padding: 0.5em;
