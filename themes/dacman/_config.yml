@@ -3,8 +3,8 @@ menu:
   ##首页: /
   关于: /about
   归档: /archives
-  读书: /reading
-  菜谱: /recipe
+  书单: /reading
+  菜单: /recipe
 
 ## you can create `tags` and `categories` folders in `../source`.
 ## And create a `index.md` file in each of them.
