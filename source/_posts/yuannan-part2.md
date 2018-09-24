@@ -1,6 +1,6 @@
 title: 云南自由行 Part 2：北有故宫，南有木府
 date: 2017-10-13 10:38:27
-categories: 游记系列
+categories: 旅行见闻
 
 
 ---

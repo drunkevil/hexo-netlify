@@ -1,6 +1,6 @@
 title: 悉尼海边徒步：从 Manly Beach 到 North Head
 date: 2018-2-3 12:22:20
-categories: 游记系列
+categories: 旅行见闻
 
 ---
 

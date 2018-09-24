@@ -1,6 +1,6 @@
 title: 悉尼奥林匹克公园
 date: 2018-5-10 12:22:20
-categories: 游记系列
+categories: 旅行见闻
 
 ---
 

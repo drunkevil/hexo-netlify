@@ -1,6 +1,6 @@
 title: 慕尼黑的周末，享受生活的N种方式
 date: 2017-08-15 10:38:27
-categories: 游记系列
+categories: 旅行见闻
 
 
 ---

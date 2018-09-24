@@ -1,6 +1,6 @@
 title: 云南自由行 Part 4：崇圣寺三塔，大理古城，洱海骑行
 date: 2017-10-15 10:38:27
-categories: 游记系列
+categories: 旅行见闻
 
 
 ---

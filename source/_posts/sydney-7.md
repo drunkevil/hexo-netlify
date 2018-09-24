@@ -1,6 +1,6 @@
 title: 悉尼印象（7）：圣诞快乐
 date: 2017-12-22 12:22:20
-categories: 游记系列
+categories: 旅行见闻
 
 ---
 

@@ -1,6 +1,6 @@
 title: 上财掠影：秋天该很好，你们若在场
 date: 2017-11-11 21:45:10
-categories: 游记系列
+categories: 旅行见闻
 
 ---
 

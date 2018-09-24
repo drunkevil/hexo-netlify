@@ -1,6 +1,6 @@
 title: 萨尔茨堡：莫扎特的故乡
 date: 2017-12-06 10:38:27
-categories: 游记系列
+categories: 旅行见闻
 
 
 ---

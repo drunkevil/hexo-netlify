@@ -1,6 +1,6 @@
 title: 悉尼见闻（1）：初次感受悉尼
 date: 2017-12-16 12:22:20
-categories: 游记系列
+categories: 旅行见闻
 
 ---
 

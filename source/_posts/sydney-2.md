@@ -1,6 +1,6 @@
 title: 悉尼见闻（2）：关于澳洲
 date: 2017-12-17 12:22:20
-categories: 游记系列
+categories: 旅行见闻
 
 ------
 

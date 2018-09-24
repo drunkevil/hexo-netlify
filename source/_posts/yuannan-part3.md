@@ -1,6 +1,6 @@
 title: 云南自由行 Part 3：美丽的泸沽湖
 date: 2017-10-14 10:38:27
-categories: 游记系列
+categories: 旅行见闻
 
 
 ---

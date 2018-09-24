@@ -1,6 +1,6 @@
 title: 云南自由行 Part 5：昆明，石林景区，以及滇池
 date: 2017-10-16 10:38:27
-categories: 游记系列
+categories: 旅行见闻
 
 
 ---

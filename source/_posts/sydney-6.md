@@ -1,6 +1,6 @@
 title: 悉尼见闻（6）：今天吃什么
 date: 2017-12-21 12:22:20
-categories: 游记系列
+categories: 旅行见闻
 
 ---
 

@@ -1,6 +1,6 @@
 title: 上海自然博物馆
 date: 2018-6-17 12:22:20
-categories: 游记系列
+categories: 旅行见闻
 
 ---
 

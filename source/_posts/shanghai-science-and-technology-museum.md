@@ -1,6 +1,6 @@
 title: 值得一去的上海5A级景点：上海科技馆
 date: 2017-10-1 10:38:27
-categories: 其他分类
+categories: 旅行见闻
 
 
 ---

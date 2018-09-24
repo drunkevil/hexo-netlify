@@ -1,6 +1,6 @@
 title: 悉尼印象（8）：邦迪海滩
 date: 2017-12-23 12:22:20
-categories: 游记系列
+categories: 旅行见闻
 
 ---
 

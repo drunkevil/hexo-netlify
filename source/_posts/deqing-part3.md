@@ -1,6 +1,6 @@
 title: 德清自驾游之三：莫干山的秋天
 date: 2017-11-08 10:38:27
-categories: 游记系列
+categories: 旅行见闻
 
 
 ---

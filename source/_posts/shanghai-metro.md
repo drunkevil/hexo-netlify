@@ -1,6 +1,6 @@
 title: 手机刷码，半秒过闸
 date: 2018-1-20 12:22:20
-categories: 上海散记
+categories: 旅行见闻
 
 ---
 

@@ -1,6 +1,6 @@
 title: 云南自由行 Part 1：初次感受云南的魅力
 date: 2017-10-12 10:38:27
-categories: 游记系列
+categories: 旅行见闻
 
 
 ---

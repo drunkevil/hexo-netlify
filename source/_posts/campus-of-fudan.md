@@ -1,6 +1,7 @@
 title: 复旦大学校园里那些值得一看的地方
 date: 2017-10-09 19:49:49
-categories: 游记系列
+categories: 旅行见闻
+
 ---
 
 昨天回到到母校，[偶遇了复旦大学的几位老校长](https://steemit.com/cn/@drunkevil/presidents-of-fudan-university)。除此之外，学校里还有不少的东西值得分享。
