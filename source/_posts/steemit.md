@@ -1,6 +1,6 @@
 title: 关于steemit的几点想法
 date: 2017-09-06 10:38:27
-categories: 其他分类
+categories: 观点看法
 
 
 ---

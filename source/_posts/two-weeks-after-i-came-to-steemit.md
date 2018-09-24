@@ -1,6 +1,6 @@
 title: 正式来到steemit两周，再来谈谈自己的想法
 date: 2017-11-18 10:38:27
-categories: 其他分类
+categories: 观点看法
 
 
 ---

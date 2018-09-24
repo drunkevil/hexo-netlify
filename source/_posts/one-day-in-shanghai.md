@@ -1,6 +1,6 @@
 title: 上海的一天
 date: 2015-05-10 10:58:27
-categories: 其他分类
+categories: 上海散记
 
 
 ---

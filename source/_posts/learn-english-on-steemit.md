@@ -1,6 +1,6 @@
 title: 除了点赞和写作，steemit还可以学习外语 
 date: 2017-11-20 10:38:27
-categories: 其他分类
+categories: 观点看法
 
 
 ---

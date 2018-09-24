@@ -1,6 +1,6 @@
 title: 长期来看，你对steemit的信心来自哪里？
 date: 2017-11-22 10:38:27
-categories: 其他分类
+categories: 观点看法
 
 
 ---
