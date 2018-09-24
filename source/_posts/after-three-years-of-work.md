@@ -1,6 +1,6 @@
 title: 工作即将满三年，这是你想要的生活吗？
 date: 2018-01-12 21:15:35
-categories: 其他分类
+categories: 观点看法
 
 ---
 

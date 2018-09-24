@@ -1,6 +1,6 @@
 title: 诚惶诚恐： 反思自己在steemit上面的不恰当做法
 date: 2017-11-19 10:38:27
-categories: 其他分类
+categories: 观点看法
 
 
 ---
