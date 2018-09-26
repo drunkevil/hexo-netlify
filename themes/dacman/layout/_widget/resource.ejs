@@ -1,0 +1,14 @@
+<div class="linkslist">
+  <p class="asidetitle"><%= __('resource') %></p>
+    <ul>
+        <% for (var i in theme.resource){ %>
+          <li>
+            <% if(theme.resource[i].indexOf(",") > 0) { %>
+            	<a href="<%- theme.resource[i].split(",")[0] %>" target="_blank" title="<%- theme.resource[i].split(",")[1] %>"><%= i %></a>
+            <% }else{ %>
+            	<a href="<%- theme.resource[i] %>" target="_blank" title="<%= i %>"><%= i %></a>
+            <% } %>
+          </li>
+        <% } %>
+    </ul>
+</div>
