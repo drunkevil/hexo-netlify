@@ -1169,14 +1169,17 @@ section.comment {
 #asidepart {
   margin: 1em 0 0;
   padding: 0 15px;
+  box-shadow: 2px 2px 2px #F5F5D5;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
+  border-radius: 20px;
  }
 
 @media only screen and (min-width: 1024px) {
   #asidepart {
     position: relative;
     float: left;
+	width: 16%;
     margin: 1.5em 0 0 6%;
     box-shadow: 2px 2px 2px #F5F5D5;
     -moz-box-sizing: border-box;
