@@ -74,6 +74,12 @@ body {
   font-size: 100%;
 }
 
+@media only screen and (max-width: 767px) {
+  body{
+      font-size: 80%;
+  }
+}
+
 ol,
 ul {
   list-style: none;
