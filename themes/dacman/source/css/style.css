@@ -1771,7 +1771,7 @@ div.asset-footer{
       /* filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#aad2f0', endColorstr='#8bc1ed'); */
       background-color:#aad2f0;
       border:1px solid #dcdcdc;
-      text-shadow:0px 0px 0px #eeeeee;
+      text-shadow:1px 1px 0px #eeeeee
 }
 
 
