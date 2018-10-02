@@ -1793,7 +1793,7 @@ div.asset-footer ul{
 }
 
 div.asset-footer li{
-  color:#556677;
+  color:#111111;
   list-style-type:square !important;
   line-height:200%;
 }
@@ -1850,7 +1850,7 @@ div.asset-footer li{
 }
 
 .asset-footer a {
-	color: #686BB2;
+	color: blueviolet;
 }
 
 .article-author a {
