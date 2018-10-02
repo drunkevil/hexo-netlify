@@ -396,7 +396,6 @@ header nav ul li a {
   width: 90%;
   margin: 0 auto;
   overflow: hidden;
-  border-bottom: 1px solid #ccc;
 }
 
 @media only screen and (min-width: 768px) {
@@ -549,7 +548,7 @@ header nav ul li a {
   overflow: hidden;
   -moz-box-sizing: border-box;
   padding: 2em 1em 0.5em;
-  
+  border-bottom: 1px solid #ccc;
 }
 
 #page-nav a {
