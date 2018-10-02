@@ -79,7 +79,7 @@
 	<h4>文档信息</h4>
 		<ul>
     		<li>版权声明： <a href="http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh" target="_blank">自由转载-非商用-非衍生-保持署名</a></li>
-    		<li>发布时间：<a href="<%- config.root %><%- item.path %>" title="<%= item.title %>" itemprop="url"><%= item.date.format(config.date_format) %></a></li>
+    		<li>发布时间： <a href="<%- config.root %><%- item.path %>" target="_blank"><%= item.date.format(config.date_format) %></a></li>
 			<li>博客分类： <%- list_categories(item.categories, {
       							show_count: false,
      							style: 'none',
