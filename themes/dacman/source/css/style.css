@@ -548,7 +548,7 @@ header nav ul li a {
   overflow: hidden;
   -moz-box-sizing: border-box;
   padding: 2em 1em 0.5em;
-  border-bottom: 1px solid #ccc;
+
 }
 
 #page-nav a {
@@ -1373,6 +1373,15 @@ footer {
     overflow: hidden;
     position: relative;
 
+}
+
+#footer_index {
+    width: 93%;
+    margin: 0 auto;
+    padding: 0;
+    overflow: hidden;
+    position: relative;
+    border-bottom: 1px solid #ccc;
 }
 #footer .line {
   width: 100%;
