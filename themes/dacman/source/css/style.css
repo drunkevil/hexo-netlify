@@ -357,7 +357,7 @@ header nav ul li a {
   		text-align: center;
   		}
 
-  	.animated {
+  	#animated {
   		display: none;
   	}
 }
