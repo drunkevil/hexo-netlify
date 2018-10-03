@@ -70,7 +70,7 @@ body {
   line-height: 1.5;
   color: #000000;
   background: #f5f5d5;
-  font-family: Georgia, serif,sans-serif;
+  font-family: 'Trebuchet MS', 'Bitstream Vera Sans', Verdana, Arial, 'Lucida Sans', 'Lucida Sans Unicode', Helvetica, sans-serif;
   font-size: 100%;
 }
 
@@ -271,7 +271,7 @@ body >header a {
 
 #textlogo h1.site-name {
   width: 86%;
-  font-family: Georgia, serif,sans-serif;
+  font-family: 'Trebuchet MS', 'Bitstream Vera Sans', Verdana, Arial, 'Lucida Sans', 'Lucida Sans Unicode', Helvetica, sans-serif;
   font-size: 200%;
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
@@ -290,7 +290,7 @@ body >header a {
   }
 }
 #textlogo h2.blog-motto {
-  font-family: trebuchet ms, arial, helvetica, tahoma, verdana;
+  font-family: 'Trebuchet MS', 'Bitstream Vera Sans', Verdana, Arial, 'Lucida Sans', 'Lucida Sans Unicode', Helvetica, sans-serif;
   font-size: 0.7em;
   font-weight: normal;
   color: #7B5A5A;
@@ -473,7 +473,7 @@ header nav ul li a {
 }
 
 #main section.post a h1 {
-  font-family: Monaco, Menlo, Consolas, Courier New, monospace;
+  font-family: 'Trebuchet MS', 'Bitstream Vera Sans', Verdana, Arial, 'Lucida Sans', 'Lucida Sans Unicode', Helvetica, sans-serif;
   color: #4349C7;
   line-height: 1.5;
 }
@@ -534,7 +534,7 @@ header nav ul li a {
 }
 @media only screen and (min-width: 768px) {
   #archive-page section.post a time {
-  	font-family: Monaco, Menlo, Consolas, Courier New, monospace;
+  	font-family: 'Trebuchet MS', 'Bitstream Vera Sans', Verdana, Arial, 'Lucida Sans', 'Lucida Sans Unicode', Helvetica, sans-serif;
     padding-left: 1em;
     padding-right: 0.6em;
     padding-top: 0.1em;
@@ -649,7 +649,7 @@ article header.article-info > h1 >a {
     font-size: 180%;
     padding-top: 1em;
     padding-bottom: 0.5em;
-    font-family: trebuchet ms, arial, helvetica, tahoma, verdana;
+    font-family: 'Trebuchet MS', 'Bitstream Vera Sans', Verdana, Arial, 'Lucida Sans', 'Lucida Sans Unicode', Helvetica, sans-serif;
     font-weight: bold;
   }
 
@@ -762,7 +762,7 @@ article .article-content h5,
 article .article-content h6 {
   color: #000;
   font-weight: 400;
-  font-family: trebuchet ms, arial, helvetica, tahoma, verdana;
+  font-family: 'Trebuchet MS', 'Bitstream Vera Sans', Verdana, Arial, 'Lucida Sans', 'Lucida Sans Unicode', Helvetica, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -1195,7 +1195,7 @@ section.comment {
 	}
 }
 .asidetitle {
-  font-family: Monaco, Menlo, Consolas, Courier New, monospace;
+  font-family: 'Trebuchet MS', 'Bitstream Vera Sans', Verdana, Arial, 'Lucida Sans', 'Lucida Sans Unicode', Helvetica, sans-serif;
   font-size: 1.1em;
   color: #000000;
   padding: 0 0 0.3125em 0;
@@ -1279,7 +1279,7 @@ section.comment {
 }
 
 .archiveslist .archive-list-count {
-  font-family: Monaco, Menlo, Consolas, Courier New, monospace;
+  font-family: 'Trebuchet MS', 'Bitstream Vera Sans', Verdana, Arial, 'Lucida Sans', 'Lucida Sans Unicode', Helvetica, sans-serif;
 }
 
 .archiveslist .archive-list-count:before {
@@ -1421,7 +1421,7 @@ footer {
 .copyright {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  font-family: Georgia, serif,sans-serif;
+  font-family: 'Trebuchet MS', 'Bitstream Vera Sans', Verdana, Arial, 'Lucida Sans', 'Lucida Sans Unicode', Helvetica, sans-serif;
   width: 100%;
   text-align: center;
   padding: 1em 0;
@@ -1477,7 +1477,7 @@ footer {
   }
 }
 .article-content pre {
-  font-family: Monaco, Menlo, Consolas, Courier New, monospace;
+  font-family: 'Trebuchet MS', 'Bitstream Vera Sans', Verdana, Arial, 'Lucida Sans', 'Lucida Sans Unicode', Helvetica, sans-serif;
   background: ##f5f2f0;
   border: 0px;
 }
@@ -1807,7 +1807,7 @@ div.asset-footer li{
 }
 
 .categorieslist ul{
-	font-family: Monaco, Menlo, Consolas, Courier New, monospace;
+  font-family: 'Trebuchet MS', 'Bitstream Vera Sans', Verdana, Arial, 'Lucida Sans', 'Lucida Sans Unicode', Helvetica, sans-serif;
   margin: 0.5em 0 0 1.5em;
   list-style-type: square;
 }
@@ -1848,7 +1848,7 @@ div.asset-footer li{
   margin-top: 0.3em;
   padding: 0.5em 0 0.5em 1em;
   color: #7E5D5D;
-  font-family: Monaco, Menlo, Consolas, Courier New, monospace;
+  font-family: 'Trebuchet MS', 'Bitstream Vera Sans', Verdana, Arial, 'Lucida Sans', 'Lucida Sans Unicode', Helvetica, sans-serif;
 }
 
 @media only screen and (max-width: 767px) {
@@ -1918,7 +1918,7 @@ h5.archive-title {
 
 .archive .archive-posts .archive-post .archive-post-date {
     color: #4A2525;
-    font-family: Monaco, Menlo, Consolas, Courier New, monospace;
+    font-family: 'Trebuchet MS', 'Bitstream Vera Sans', Verdana, Arial, 'Lucida Sans', 'Lucida Sans Unicode', Helvetica, sans-serif;
     }
 
 #page-title {
