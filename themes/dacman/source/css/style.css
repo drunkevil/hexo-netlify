@@ -285,7 +285,7 @@ body >header a {
 }
 @media only screen and (min-width: 1024px) {
   #textlogo h1.site-name {
-    font-size: 150%;
+    font-size: 120%;
     color: #7E5D5D;
   }
 }
