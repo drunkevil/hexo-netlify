@@ -198,31 +198,28 @@ input[type=text] {
 
 body >header {
   width: 100%;
+  margin: auto;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
-  padding: 0.5em 0 0.5em;
+  padding: 0.5em;
 }
 @media only screen and (min-width: 1024px) {
   body >header {
       -moz-box-sizing: border-box;
-      padding: 0.5em 0 0.5em;
-
+      padding: 0.5em;
   }
 }
 body >header >div {
   width: 90%;
   padding: 2em 0 0 0;
-  margin: 0 auto;
+  margin: 0 3%;
   position: relative;
   overflow: hidden;
   border-bottom: 1px solid #ccc;
   font-family: Georgia, serif;
+  font-size: 1.1em;
 }
-@media only screen and (min-width: 1024px) {
-  body >header >div {
-    width: 90%;
-  }
-}
+
 body >header a {
   display: block;
   color: #000;
@@ -235,7 +232,7 @@ body >header a {
 
 @media only screen and (max-width: 767px) {
   #imglogo {
-  	margin: 0 autoï¼›
+  	margin: 0 autoÃ¯Â¼â€º
   }
 }
 
@@ -264,9 +261,12 @@ body >header a {
 }
 #textlogo {
   float: left;
-  margin: 0;
   width: 30%;
-  padding-bottom: 0.8em;
+}
+
+#animated {
+  float: right;
+  width: 30%;
 }
 
 
@@ -274,13 +274,12 @@ body >header a {
   width: 86%;
   font-family: Georgia, serif;
   font-size: 200%;
-  line-height: 1.5;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 @media only screen and (min-width: 768px) {
   #textlogo h1.site-name {
-    font-size: 150%;
+    font-size: 120%;
     color: #556677;
   }
 }
@@ -332,14 +331,14 @@ header nav {
   }
 }
 @media only screen and (min-width: 1024px) {
-  header nav ul {
+  header div ul {
     float: right;
-	margin-right: 3em;
   }
 }
 @media only screen and (min-width: 1024px) {
-  header nav ul li {
+  header div ul li {
     float: left;
+    padding: 0.5em;
   }
 }
 header nav ul li a {
@@ -803,7 +802,7 @@ article .article-content blockquote {
 
 article .article-content blockquote:before {
     float: left;
-    content: '“';
+    content: 'â€œ';
     font-family: Georgia,serif;
     color: #e92c6c;
     font-size: 3em;
@@ -812,7 +811,7 @@ article .article-content blockquote:before {
 
 article .article-content blockquote:after {
     float: right;
-    content: '”';
+    content: 'â€';
     font-family: Georgia,serif;
     color: #e92c6c;
     font-size: 3em;
@@ -1180,8 +1179,8 @@ section.comment {
   #asidepart {
     position: relative;
     float: left;
-	width: 16%;
-    margin: 1.5em 0 0 6%;
+    width: 16%;
+    margin: 1.5em 8% 0 6%;
     box-shadow: 2px 2px 2px #F5F5D5;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
@@ -1385,7 +1384,7 @@ footer {
 }
 
 #footer_index {
-    width: 93%;
+    width: 95%;
     margin: 0 auto;
     padding: 0;
     overflow: hidden;
