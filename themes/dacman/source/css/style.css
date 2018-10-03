@@ -802,7 +802,7 @@ article .article-content blockquote {
 
 article .article-content blockquote:before {
     float: left;
-    content: 'â€œ';
+    content: '"';
     font-family: Georgia,serif;
     color: #e92c6c;
     font-size: 3em;
@@ -811,7 +811,7 @@ article .article-content blockquote:before {
 
 article .article-content blockquote:after {
     float: right;
-    content: 'â€';
+    content: '"';
     font-family: Georgia,serif;
     color: #e92c6c;
     font-size: 3em;
@@ -1384,8 +1384,8 @@ footer {
 }
 
 #footer_index {
-    width: 95%;
-    margin: 0 auto;
+    width: 90%;
+    margin: 0 3%;
     padding: 0;
     overflow: hidden;
     position: relative;
