@@ -1944,9 +1944,10 @@ h5.archive-title {
 }
 
 #header-name {
-    padding-bottom: 0.3em;
+    padding-bottom: 0.1em;
     font-size: 1.1em;
     border-bottom: 1px solid #ccc;
+	font-family: Georgia, serif;
 }
 
 #archives #header-name {
