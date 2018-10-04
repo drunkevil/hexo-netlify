@@ -1162,8 +1162,7 @@ section.comment {
   #asidepart {
     position: relative;
     float: left;
-    width: 16%;
-    margin: 1.5em 8% 0 6%;
+    margin: 1.5em 3% 0 6%;
     box-shadow: 2px 2px 2px #F5F5D5;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
