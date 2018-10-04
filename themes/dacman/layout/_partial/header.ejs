@@ -6,6 +6,9 @@
 	<div id="animated">
 		<ul><% for (var i in theme.menu){ %>
 			<li><a href="<%- theme.menu[i] %>"><%= i %></a></li><% } %>
+			<li><form class="site-search-form">
+		    <input type="text" id="st-search-input" class="st-search-input st-default-search-input" />
+		    </form></li>
 		</ul>
 	</div>			
 </div>
