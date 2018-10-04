@@ -8,7 +8,7 @@ categories: 读书观影
 
 <!--more-->
 
-![](https://cdn.pixabay.com/photo/2017/08/30/01/05/milky-way-2695569_1280.jpg)
+![](https://cdn.pixabay.com/photo/2015/11/04/20/59/milky-way-1023340_1280.jpg)
 
 
 读完《三体》的前两部，依然没有改变这种情况。但这并不影响我对《三体》的喜欢。
