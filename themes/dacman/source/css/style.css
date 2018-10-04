@@ -790,7 +790,7 @@ article .article-content abbr {
 }
 article .article-content blockquote {
     font-size: 90%;
-    padding: 1em 3em 2em 4em;
+    padding: 0 1em 1em 1em;
     margin: 1em;
     background-color: #f5f2f0;
     border-radius: 1em;
@@ -800,23 +800,6 @@ article .article-content blockquote {
     border-style: solid;
  }
 
-article .article-content blockquote:before {
-    float: left;
-    content: '"';
-    font-family: Georgia,serif;
-    color: #e92c6c;
-    font-size: 3em;
-    margin: -0.3em 0.3em -0.3em -1em;
-}
-
-article .article-content blockquote:after {
-    float: right;
-    content: '"';
-    font-family: Georgia,serif;
-    color: #e92c6c;
-    font-size: 3em;
-    margin: -0.3em -0.8em -0.3em -0.7em;
-}
 
 article .article-content blockquote footer {
   background: #fafafa;
