@@ -70,8 +70,8 @@ body {
   line-height: 1.5;
   color: #000000;
   background: #f5f5d5;
+  font-family: 'Trebuchet MS', 'Bitstream Vera Sans', Verdana, Arial, 'Lucida Sans', 'Lucida Sans Unicode', Helvetica, sans-serif;
   font-size: 100%;
-  font-family: KaiTi, KaiTi_GB2312, FangSong, FangSong_GB2312;
 }
 
 @media only screen and (max-width: 767px) {
@@ -1790,6 +1790,7 @@ div.asset-footer li{
 }
 
 .categorieslist ul{
+  font-family: 'Trebuchet MS', 'Bitstream Vera Sans', Verdana, Arial, 'Lucida Sans', 'Lucida Sans Unicode', Helvetica, sans-serif;
   margin: 0.5em 0 0 1.5em;
   list-style-type: square;
 }
@@ -1830,6 +1831,7 @@ div.asset-footer li{
   margin-top: 0.3em;
   padding: 0.5em 0 0.5em 1em;
   color: #7E5D5D;
+  font-family: 'Trebuchet MS', 'Bitstream Vera Sans', Verdana, Arial, 'Lucida Sans', 'Lucida Sans Unicode', Helvetica, sans-serif;
 }
 
 @media only screen and (max-width: 767px) {
