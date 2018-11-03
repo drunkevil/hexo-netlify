@@ -523,6 +523,7 @@ header nav ul li a {
   background: #f5f5d5;
   color: #7E5D5D !important;
   text-decoration: none;
+  border-bottom: none;
 }
 #main article.post-expand .article-more-link a:hover {
   color: #817c7c !important;
