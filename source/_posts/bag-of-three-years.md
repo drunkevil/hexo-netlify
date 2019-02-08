@@ -23,4 +23,3 @@ categories: 上海散记
 2019，愿世事太平，愿自己顺遂。
 
 
-![](https://cdn.pixabay.com/photo/2016/11/22/22/21/adventure-1850912_1280.jpg)
