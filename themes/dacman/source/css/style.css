@@ -445,11 +445,7 @@ header nav ul li a {
   #main {
     width: 70%;
     float: left;
-    -webkit-transition: margin 0.5s ease-out;
-    -moz-transition: margin 0.5s ease-out;
-    -o-transition: margin 0.5s ease-out;
-    -ms-transition: margin 0.5s ease-out;
-    transition: margin 0.5s ease-out;
+
   }
 }
 #main section.post {
@@ -459,11 +455,6 @@ header nav ul li a {
 #main section.post a {
   display: block;
   /*border-left: 0.5em solid #ccc;*/
-  -webkit-transition: border-left 0.45s;
-  -moz-transition: border-left 0.45s;
-  -o-transition: border-left 0.45s;
-  -ms-transition: border-left 0.45s;
-  transition: border-left 0.1s;
   padding: 0.5em;
 }
 @media only screen and (min-width: 768px) {
