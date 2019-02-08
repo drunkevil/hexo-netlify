@@ -232,7 +232,7 @@ body >header a {
 
 @media only screen and (max-width: 767px) {
   #imglogo {
-  	margin: 0 autoÃ¯Â¼â€º
+  	margin: 0 auto
   }
 }
 
@@ -649,7 +649,7 @@ article header.article-info > h1 >a {
     color: #000000;
     font-size: 150%;
     padding-top: 1em;
-    padding-bottom: 0.9em;
+    padding-bottom: 0.5em;
     font-family: 'Trebuchet MS', 'Bitstream Vera Sans', Verdana, Arial, 'Lucida Sans', 'Lucida Sans Unicode', Helvetica, sans-serif;
     font-weight: bold;
   }
@@ -1164,7 +1164,7 @@ section.comment {
     position: relative;
     float: left;
 	width: 16%;
-    margin: 1.5em 3% 0 6%;
+    margin: 1em 3% 0 6%;
     box-shadow: 2px 2px 2px #F5F5D5;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
