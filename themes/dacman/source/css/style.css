@@ -1897,7 +1897,7 @@ h5.archive-title {
 
 .archive .archive-posts .archive-post .archive-post-title {
     color: #4349C7; 
-    text-decoration: underline;}
+    border-bottom: 1px solid;}
 
 .archive .archive-posts .archive-post .archive-post-date {
     color: #4A2525;
