@@ -285,7 +285,7 @@ body >header a {
 }
 @media only screen and (min-width: 1024px) {
   #textlogo h1.site-name {
-    font-size: 120%;
+    font-size: 110%;
     color: #556677;
   }
 }
@@ -647,7 +647,7 @@ article header.article-info > h1 >a {
 @media only screen and (min-width: 1024px) {
   article header.article-info >h1 {
     color: #000000;
-    font-size: 180%;
+    font-size: 150%;
     padding-top: 1em;
     padding-bottom: 0.5em;
     font-family: 'Trebuchet MS', 'Bitstream Vera Sans', Verdana, Arial, 'Lucida Sans', 'Lucida Sans Unicode', Helvetica, sans-serif;
