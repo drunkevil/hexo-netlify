@@ -649,7 +649,7 @@ article header.article-info > h1 >a {
     color: #000000;
     font-size: 150%;
     padding-top: 1em;
-    padding-bottom: 0.5em;
+    padding-bottom: 0.9em;
     font-family: 'Trebuchet MS', 'Bitstream Vera Sans', Verdana, Arial, 'Lucida Sans', 'Lucida Sans Unicode', Helvetica, sans-serif;
     font-weight: bold;
   }
@@ -1183,7 +1183,7 @@ section.comment {
   font-size: 1.1em;
   color: #000000;
   padding: 0 0 0.3125em 0;
-  border-bottom: 0.1em solid #ccc;
+  border-bottom: 1px solid #ccc;
 }
 .asidetitle a {
   text-decoration: underline;
