@@ -1790,7 +1790,7 @@ div.asset-footer li{
 }
 
 .categorieslist ul{
-  font-family: 'Trebuchet MS', 'Bitstream Vera Sans', Verdana, Arial, 'Lucida Sans', 'Lucida Sans Unicode', Helvetica, sans-serif;
+  font-family: Georgia, serif;
   margin: 0.5em 0 0 1.5em;
   list-style-type: square;
 }
@@ -1810,12 +1810,10 @@ div.asset-footer li{
 
 .index_author a {
 	color: #7E5D5D;
-	text-decoration: underline;
 }
 
 .index_time a {
 	color: #7E5D5D;
-	text-decoration: underline;
 }
 .article-categories a {
 	color: #7E5D5D;
@@ -1832,7 +1830,7 @@ div.asset-footer li{
   margin-top: 0.3em;
   padding: 0.5em 0 0.5em 1em;
   color: #7E5D5D;
-  font-family: 'Trebuchet MS', 'Bitstream Vera Sans', Verdana, Arial, 'Lucida Sans', 'Lucida Sans Unicode', Helvetica, sans-serif;
+  font-family: Georgia, serif;
 }
 
 @media only screen and (max-width: 767px) {
