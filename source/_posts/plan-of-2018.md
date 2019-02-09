@@ -1,6 +1,6 @@
 title: 2018年个人计划
 date: 2017-12-25 12:22:20
-categories: 其他分类
+categories: 上海散记
 
 ---
 

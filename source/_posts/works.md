@@ -1,7 +1,6 @@
 title: 期待即将到来的澳洲之行
 date: 2017-11-28 10:38:27
-categories: 其他分类
-
+categories: 上海散记
 
 ---
 
