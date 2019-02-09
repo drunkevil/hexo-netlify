@@ -1,6 +1,6 @@
 title: 2014年度总结
 date: 2014-12-28 13:50:27
-categories: 观点看法
+categories: 上海散记
 
 ---
 
