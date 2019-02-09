@@ -1,6 +1,6 @@
 title: 澳洲的人力成本有多贵
 date: 2018-4-28 12:22:20
-categories: 其他分类
+categories: 旅行见闻
 
 ---
 
