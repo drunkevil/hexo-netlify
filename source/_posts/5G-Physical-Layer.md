@@ -32,10 +32,44 @@ http://www.3gpp.org/ftp/Specs/archive/38_series/
 
 ## 2、38.202：物理层的功能和服务
 
-38.202是物理层协议除了概述之外最短的一个文档，主要介绍了终端侧物理层各个信道的模型和处理流程，
+38.202是物理层协议除了概述之外最短的一个文档，主要介绍了终端侧物理层各个信道的模型和处理流程。
+
+从终端侧到基站侧的上行处理流程如下图所示：
+
+> \-    Higher-layer data passed to/from the physical layer
+>
+> \-    CRC and transport-block-error indication
+>
+> \-    FEC and rate matching
+>
+> \-    Data modulation
+>
+> \-    Mapping to physical resource
+>
+> \-    Multi-antenna processing
+>
+> \-    Support of L1 control and Hybrid-ARQ-related signalling
 
 
 
 ![](http://wx3.sinaimg.cn/mw690/aeba7ac3gy1fzzzqqqt4gj20sz0fxta3.jpg)
 
+从终端侧到基站侧的上行处理流程如下图所示：
+
+> \-    Higher-layer data passed to/from the physical layer;
+>
+> \-    CRC and transport-block-error indication;
+>
+> \-    FEC and rate matching;
+>
+> \-    Data modulation;
+>
+> \-    Mapping to physical resource;
+>
+> \-    Multi-antenna processing;
+>
+> \-    Support of L1 control and Hybrid-ARQ-related signalling.
+
 ![](http://wx3.sinaimg.cn/mw690/aeba7ac3gy1fzzzqw5sblj20t00eyjsp.jpg)
+
+上下行的处理流程基本相同，唯一的差别就是方向相反。
