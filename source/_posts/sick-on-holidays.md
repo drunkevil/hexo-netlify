@@ -1,6 +1,6 @@
 title: 生病记
 date: 2018-3-9 21:22:20
-categories: 其他分类
+categories: 上海散记
 
 ---
 
