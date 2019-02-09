@@ -1,6 +1,6 @@
 title: Hexo静态博客添加站内搜索--Swiftype
 date: 2015-04-08 10:50:27
-categories: 学习笔记
+categories: 其他分类
 
 ---
 
@@ -50,7 +50,7 @@ Swiftype可以为网站及移动app提供内置搜索引掣服务。其部署十
 
 
 >     swift_search:
-  		enable: true
+  ​		enable: true
 
 #### 5、
 在hexo的source目录下建立一个search文件夹，并在其中新建一个index.md文件，其内容为：
@@ -58,8 +58,9 @@ Swiftype可以为网站及移动app提供内置搜索引掣服务。其部署十
 
 
 >     layout: search
-	title: search
-	---
+>
+>     title: search
+>     ---
 
 #### 6、
 
@@ -68,9 +69,9 @@ Swiftype可以为网站及移动app提供内置搜索引掣服务。其部署十
 
 
 >     <% if (theme.swift_search.enable){ %>
-		<form class="search" action="<%- config.root %>search/index.html" method="get" accept-charset="utf-8">
-		<input type="text" id="st-search-inpu" maxlength="20" placeholder="搜索" />
-		</form>
+	​	<form class="search" action="<%- config.root %>search/index.html" method="get" accept-charset="utf-8">
+	​	<input type="text" id="st-search-inpu" maxlength="20" placeholder="搜索" />
+	​	</form>
 	<% }
 
 #### 7、
@@ -80,37 +81,37 @@ Swiftype可以为网站及移动app提供内置搜索引掣服务。其部署十
 
 
 > 	<% if(theme.swift_search.enable) { %>
-		<div  id="container" class="page">
-  		<div id="st-results-container" style="width:70%; margin:1.5em auto">正在加载搜索结果，请稍等。</div>
-  	<style>
+	​	<div  id="container" class="page">
+  ​		<div id="st-results-container" style="width:70%; margin:1.5em auto">正在加载搜索结果，请稍等。</div>
+  ​	<style>
 	.st-result-text {
- 		background: #fafafa;
-  		display: block;
-  		border-left: 0.5em solid #ccc;
-  		-webkit-transition: border-left 0.45s;
-  		-moz-transition: border-left 0.45s;
-  		-o-transition: border-left 0.45s;
-  		-ms-transition: border-left 0.45s;
-  		transition: border-left 0.45s;
-  		padding: 0.5em;
-		}
+ 	​	background: #fafafa;
+  ​		display: block;
+  ​		border-left: 0.5em solid #ccc;
+  ​		-webkit-transition: border-left 0.45s;
+  ​		-moz-transition: border-left 0.45s;
+  ​		-o-transition: border-left 0.45s;
+  ​		-ms-transition: border-left 0.45s;
+  ​		transition: border-left 0.45s;
+  ​		padding: 0.5em;
+	​	}
 	@media only screen and (min-width: 768px) {
-  	.st-result-text {
+  ​	.st-result-text {
     	padding: 1em;
-  		}
+  ​		}
 	}
 	.st-result-text:hover {
  	 	border-left: 0.5em solid #ea6753;
-		}
+	​	}
 	.st-result-text h3 a{
-  		color: #2ca6cb;
-  		line-height: 1.5;
-  		font-size: 22px;
-		}
+  ​		color: #2ca6cb;
+  ​		line-height: 1.5;
+  ​		font-size: 22px;
+	​	}
 	.st-snippet em {
-  		font-weight: bold;
-  		color: #ea6753;
-		}
+  ​		font-weight: bold;
+  ​		color: #ea6753;
+	​	}
 	</style>
 	<% } %>
 
@@ -119,7 +120,6 @@ Swiftype可以为网站及移动app提供内置搜索引掣服务。其部署十
 至此，配置完成，`hexo d -g`重新部署一下即可出现站内搜索功能。搜索框的样式可根据个人爱好在CSS文件中修改。
 
 麻雀虽小，五脏俱全，博客的基础功能基本上都已实现。
-
 
 ----------
 

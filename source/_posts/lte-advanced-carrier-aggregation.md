@@ -1,6 +1,6 @@
 title: LTE-Advanced之载波聚合
 date: 2015-07-28 20:33:12
-categories: 学习笔记
+categories: 无线通信
 
 ---
 
@@ -105,9 +105,9 @@ LTE-Advanced要求下行峰值速率达到1Gbit/s，上行峰值速率达到500M
 ## 六. 参考链接
 
 - 雒秦川：[LTE-Advanced系统的多载波聚合技术研究][9]
- 
+
 - 金辉_LTE的博客：[LTE之载波聚合][10]
- 
+
 - 百度文库：[载波聚合介绍][11]
 
 - YouTube：[LTE Advanced Carrier Aggregation][12]
@@ -115,16 +115,16 @@ LTE-Advanced要求下行峰值速率达到1Gbit/s，上行峰值速率达到500M
 - 3GPP：[Carrier Aggregation explained][13]
 
 
-  [1]: http://ww3.sinaimg.cn/mw690/aeba7ac3jw1euioebvtjdj211s0a1q5u.jpg
-  [2]: http://ww2.sinaimg.cn/mw690/aeba7ac3jw1euirelgk6pj20fr06h74i.jpg
-  [3]: http://ww4.sinaimg.cn/mw690/aeba7ac3jw1euipcweu5lj20l306uaai.jpg
-  [4]: http://ww2.sinaimg.cn/mw690/aeba7ac3jw1euipcx8oqdj20i10620su.jpg
-  [5]: http://ww4.sinaimg.cn/mw690/aeba7ac3jw1euipcy8lnkj20ig06emxg.jpg
-  [6]: http://ww2.sinaimg.cn/mw690/aeba7ac3jw1euipqhieefj20s60bq0tn.jpg
-  [7]: http://ww4.sinaimg.cn/mw690/aeba7ac3jw1euipqilxz2j20uc0e13zm.jpg
-  [8]: http://ww4.sinaimg.cn/mw690/aeba7ac3jw1euipqjml0aj20tb0dedgw.jpg
-  [9]: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&ved=0CCsQFjABahUKEwiGj4GF5_3GAhVTm4gKHVXUBpc&url=http://www.paper.edu.cn/download/downPaper/201012-755&ei=nXK3VcbMENO2ogTVqJu4CQ&usg=AFQjCNF1zoOJ4nnLrnjSmkuGkq4e474Wxg&sig2=HxaBWJ6Bh6YRk-Snd6GY9w
-  [10]: http://blog.sina.com.cn/s/blog_927cff01010181t7.html
-  [11]: http://wenku.baidu.com/view/ae529e3987c24028915fc3de.html
-  [12]: https://www.youtube.com/watch?v=6bsGJEQX3SM
-  [13]: http://www.3gpp.org/technologies/keywords-acronyms/101-carrier-aggregation-explained
+[1]: http://ww3.sinaimg.cn/mw690/aeba7ac3jw1euioebvtjdj211s0a1q5u.jpg
+[2]: http://ww2.sinaimg.cn/mw690/aeba7ac3jw1euirelgk6pj20fr06h74i.jpg
+[3]: http://ww4.sinaimg.cn/mw690/aeba7ac3jw1euipcweu5lj20l306uaai.jpg
+[4]: http://ww2.sinaimg.cn/mw690/aeba7ac3jw1euipcx8oqdj20i10620su.jpg
+[5]: http://ww4.sinaimg.cn/mw690/aeba7ac3jw1euipcy8lnkj20ig06emxg.jpg
+[6]: http://ww2.sinaimg.cn/mw690/aeba7ac3jw1euipqhieefj20s60bq0tn.jpg
+[7]: http://ww4.sinaimg.cn/mw690/aeba7ac3jw1euipqilxz2j20uc0e13zm.jpg
+[8]: http://ww4.sinaimg.cn/mw690/aeba7ac3jw1euipqjml0aj20tb0dedgw.jpg
+[9]: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&ved=0CCsQFjABahUKEwiGj4GF5_3GAhVTm4gKHVXUBpc&url=http://www.paper.edu.cn/download/downPaper/201012-755&ei=nXK3VcbMENO2ogTVqJu4CQ&usg=AFQjCNF1zoOJ4nnLrnjSmkuGkq4e474Wxg&sig2=HxaBWJ6Bh6YRk-Snd6GY9w
+[10]: http://blog.sina.com.cn/s/blog_927cff01010181t7.html
+[11]: http://wenku.baidu.com/view/ae529e3987c24028915fc3de.html
+[12]: https://www.youtube.com/watch?v=6bsGJEQX3SM
+[13]: http://www.3gpp.org/technologies/keywords-acronyms/101-carrier-aggregation-explained

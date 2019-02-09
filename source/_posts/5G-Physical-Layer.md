@@ -1,6 +1,6 @@
 title: 5G NR 协议学习：物理层
 date: 2019-2-9 18:38:27
-categories: NR协议
+categories: 无线通信
 
 ---
 

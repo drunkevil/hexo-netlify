@@ -1,6 +1,6 @@
 title: LTE笔记（二）：网络架构
 date: 2015-05-27 08:26:11
-categories: 学习笔记
+categories: 无线通信
 
 ---
 

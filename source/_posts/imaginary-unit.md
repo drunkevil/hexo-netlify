@@ -1,6 +1,6 @@
 title: YouTube上面一个关于虚数单位的视频
 date: 2015-04-28 09:31:27
-categories: 学习笔记
+categories: 无线通信
 mathjax: true
 
 ---

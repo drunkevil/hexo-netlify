@@ -1,6 +1,6 @@
 title: 理解复数和正交信号
 date: 2015-04-29 15:31:27
-categories: 学习笔记
+categories: 无线通信
 mathjax: true
 
 ---

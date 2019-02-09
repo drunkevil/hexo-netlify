@@ -1,6 +1,6 @@
 title: 随机变量的cdf和pdf
 date: 2015-09-20 22:22:20
-categories: 学习笔记
+categories: 无线通信
 mathjax: true
 
 ---

@@ -1,6 +1,6 @@
 title: LTE笔记（一）：背景知识
 date: 2015-05-22 08:16:11
-categories: 学习笔记
+categories: 无线通信
 
 ---
 

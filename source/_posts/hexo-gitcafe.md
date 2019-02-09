@@ -1,6 +1,6 @@
 title: 博客从Wordpress迁移回Hexo并托管到Gitcafe
 date: 2015-02-05 11:49:49
-categories: 学习笔记
+categories: 其他分类
 
 ---
 
@@ -68,9 +68,9 @@ Wordpress应该是目前使用人数最多的个人博客平台，由于其丰�
 > deploy:
 > 
 >   type: github
->   
+> 
 >   repository: git@gitcafe.com:yourname/yourname.git
->   
+> 
 >   branch: gitcafe-pages
 
 

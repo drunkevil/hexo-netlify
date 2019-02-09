@@ -1,6 +1,6 @@
 title: 【教程】使用QQ域名邮箱系统设置自己的域名邮箱
 date: 2017-11-23 18:49:49
-categories: 学习笔记
+categories: 其他分类
 
 ---
 

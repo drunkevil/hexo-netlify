@@ -1,6 +1,6 @@
 title: 互联网如何通信
 date: 2015-04-23 09:25:27
-categories: 学习笔记
+categories: 无线通信
 
 ---
 
@@ -11,9 +11,9 @@ categories: 学习笔记
 OSI参考模型是国际标准化组织(ISO)和国际电报电话咨询委员会(CCITT)联合制定的开放系统互连参考模型。这个模型把网络通信的工作分为7层，自下而上分别是物理层、数据链路层、网络层、传输层、会话层、表示层和应用层。
 
 
- 
+
 ![][1]
- 
+
 这种分法显得过于复杂。TCP/IP协议将其简化为4层，自下而上分别是，网络接口层、网络互连层、传输层和应用层，常被视为简化的七层OSI模型。两种分法的对应关系如下：
 
 ![][2]
@@ -23,7 +23,6 @@ OSI参考模型是国际标准化组织(ISO)和国际电报电话咨询委员会
 ![][5]
 
 今天，我在网上看到一篇文章，它抛开很多抽象难懂的专业术语，直观和通俗的介绍了网络通信的五层模型。
-
 
 ----------
 
@@ -86,12 +85,12 @@ TCP和UDP协议是两种不同的传输层协议。UDP协议类似日常的信�
 通过多个层次的网络协议，我们从原始的0/1序列出发，最终允许互联网上的分布于两台计算机的两个进程以规范的格式相互通信，创造出一个五彩斑斓的网络世界。
 
 
-  [1]: http://ww1.sinaimg.cn/mw690/aeba7ac3jw1erdbep631xg20v4183490.gif
-  [2]: http://ww3.sinaimg.cn/mw690/aeba7ac3jw1erda9gpzw0j20i00d50u2.jpg
-  [3]: http://www.ruanyifeng.com/blog/2012/05/internet_protocol_suite_part_i.html
-  [4]: http://www.ruanyifeng.com/blog/2012/06/internet_protocol_suite_part_ii.html
-  [5]: http://ww1.sinaimg.cn/mw690/aeba7ac3jw1erdafscowpj20m80d8q58.jpg
-  [6]: http://ww3.sinaimg.cn/mw690/aeba7ac3jw1erdaw235pxj20a006jwf0.jpg
-  [7]: http://ww3.sinaimg.cn/mw690/aeba7ac3jw1erdaw2st8zg20dm0aw74b.gif
-  [8]: http://ww3.sinaimg.cn/mw690/aeba7ac3jw1erdaw1tub7j206y068t8w.jpg
-  [9]: http://ww1.sinaimg.cn/mw690/aeba7ac3jw1erdaw2morpj20dw0chmz1.jpg
+[1]: http://ww1.sinaimg.cn/mw690/aeba7ac3jw1erdbep631xg20v4183490.gif
+[2]: http://ww3.sinaimg.cn/mw690/aeba7ac3jw1erda9gpzw0j20i00d50u2.jpg
+[3]: http://www.ruanyifeng.com/blog/2012/05/internet_protocol_suite_part_i.html
+[4]: http://www.ruanyifeng.com/blog/2012/06/internet_protocol_suite_part_ii.html
+[5]: http://ww1.sinaimg.cn/mw690/aeba7ac3jw1erdafscowpj20m80d8q58.jpg
+[6]: http://ww3.sinaimg.cn/mw690/aeba7ac3jw1erdaw235pxj20a006jwf0.jpg
+[7]: http://ww3.sinaimg.cn/mw690/aeba7ac3jw1erdaw2st8zg20dm0aw74b.gif
+[8]: http://ww3.sinaimg.cn/mw690/aeba7ac3jw1erdaw1tub7j206y068t8w.jpg
+[9]: http://ww1.sinaimg.cn/mw690/aeba7ac3jw1erdaw2morpj20dw0chmz1.jpg
