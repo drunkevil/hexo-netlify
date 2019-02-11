@@ -1793,7 +1793,7 @@ div.asset-footer li{
 .index_author {
   float: left;
   margin-top: 0.3em;
-  padding: 0.5em 0;
+  padding: 0;
   color: #7E5D5D;
 }
 
@@ -1817,7 +1817,7 @@ div.asset-footer li{
 .index_time {
   float: left;
   margin-top: 0.3em;
-  padding: 0.5em 0 0.5em 1em;
+  padding: 0 0 0.5em 1em;
   color: #7E5D5D;
   font-family: Georgia, serif;
 }
