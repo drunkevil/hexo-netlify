@@ -15,9 +15,10 @@ menu:
 
 #### Widgets
 widgets: 
+- resource
 - category
 - links
-- resource
+
 
 ## provide seven widgets:category,tag,rss,archive,tagcloud,links,weibo,douban
 
@@ -51,13 +52,13 @@ toc:
 
 #### Links
 links:
+  订阅本站: http://www.drunkevil.org/atom.xml
   木遥博客: http://blog.farmostwood.net/
   土木坛子: https://tumutanzi.com
   勺子博客: https://chenghouwen.com/
   阮一峰: http://www.ruanyifeng.com/blog/
   steemit: https://steemit.com/@drunkevil
-
-  ##订阅本站: http://www.drunkevil.org/atom.xml
+  
  
 resource:
   wwClouds: https://my.wwclouds.com/aff.php?aff=260
