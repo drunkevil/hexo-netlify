@@ -861,7 +861,7 @@ article .article-content video,
 article .article-content figure img {
     border-radius: 10px;
     border-style: solid;
-    max-width: 100%;
+    max-width: 90%;
     display: block;
     margin: 0 auto;
 }
