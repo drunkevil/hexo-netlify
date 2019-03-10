@@ -1,4 +1,4 @@
-title: 5G NR 协议学习：物理层
+title: 5G NR 学习：物理层协议
 date: 2019-2-9 18:38:27
 categories: 无线通信
 
