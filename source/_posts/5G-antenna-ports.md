@@ -21,6 +21,8 @@ categories: 无线通信
 3. 天线端口是从接收者的角度定义的（下行的接收是UE，上行的接收是基站），一个端口对于接收者来说是一个独立的天线信道。
 4. 天线端口是一个逻辑上的概念，与实际的物理天线没有一一对应的关系，二者之间的映射关系由各个厂商自己实现，协议并没有规定。
 
+![](https://ws1.sinaimg.cn/large/aeba7ac3gy1g11hxna33xj20lx07kaap.jpg)
+
 在5G NR协议中，每种物理信道和参考信号对应的端口号如下。
 
 | Channel/Signal | Antenna Ports                      |
