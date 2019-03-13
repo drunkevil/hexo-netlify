@@ -1,4 +1,4 @@
-title: 5G NR 学习：常用缩略词
+title: 5G NR 笔记（2）：常用缩略词
 date: 2019-3-10 9:38:27
 categories: 无线通信
 
